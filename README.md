@@ -1,4 +1,4 @@
-## How to execute this pipeline ##
+### How to execute this pipeline ###
 
 1) Sonarscanner
 2) Sonarqube server
